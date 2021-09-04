@@ -1,0 +1,30 @@
+Script started on 2021-08-30 18:27:15-06:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="188" LINES="11"]
+]0;ben@Clover-VirtualBox: ~/cse113/prelab1[01;32mben@Clover-VirtualBox[00m:[01;34m~/cse113/prelab1[00m$ gcc -g -Wall prelab1.c -o prelab1 -lm
+]0;ben@Clover-VirtualBox: ~/cse113/prelab1[01;32mben@Clover-VirtualBox[00m:[01;34m~/cse113/prelab1[00m$ ./prelab1
+Enter value of radius to calculate circle area:
+4
+The area of the circle is: 50.265482
+Enter value of radius to calculate another circle area:
+7
+The area of the second circle is: 153.938040
+Enter value of outer ring radius:
+8
+Enter value of innner ring radius:
+3
+The area of the ring is: 172.787596
+Enter the first temperature value in Fahrenheit:
+32
+The first temperature in Celcius is: 0.000000
+Enter the second temperature value in Fahrenheit:
+-17
+The second temperature in Celcius is: -27.222222
+Enter first amount in USD:
+100
+First amount in euros: 76.000000
+Enter another amount in USD:
+12.65
+Second amount in euros: 9.614000
+]0;ben@Clover-VirtualBox: ~/cse113/prelab1[01;32mben@Clover-VirtualBox[00m:[01;34m~/cse113/prelab1[00m$ exit
+exit
+
+Script done on 2021-08-30 18:28:36-06:00 [COMMAND_EXIT_CODE="0"]
